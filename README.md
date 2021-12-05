@@ -1,3 +1,4 @@
 # EasySpawn
 One simple command. It couldn't be easier!
-https://img.shields.io/spiget/downloads/98133
+
+https://img.shields.io/github/downloads/muchtek/EasySpawn/total
