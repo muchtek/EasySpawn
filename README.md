@@ -9,3 +9,13 @@
   <img src="https://img.shields.io/spiget/rating/98133?color=yellow&label=Spigot%20Rating" />
   <img src="https://img.shields.io/discord/917152472764645446?color=%237289DA&label=Support%20Server" />
 </p>
+
+
+# Q: What is EasySpawn?
+### A: EasySpawn is a simple 1-command minecraft plugin that sends users back to the world spawn when the command is used.
+
+# Q: What is the actual command?
+### A: The command by default is `/spawn`, but it has many aliases, including `/home`, `/worldspawn`, and `reset`.
+
+# Q: Can I reset the spawn point?
+### A: Yes! Simply use the built-in `/setworldspawn` command. EasySpawn will teleport the player to whatever spawn you set it to.
