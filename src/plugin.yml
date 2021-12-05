@@ -1,0 +1,10 @@
+name: EasySpawn
+version: 1.0
+author: muchtek
+main: com.muchtek.easyspawn.EasySpawn
+api-version: 1.14
+commands:
+  spawn:
+    description: Teleports the player to the world's set spawn at any time.
+    usage: /<command>
+    aliases: [reset, home, worldspawn]
