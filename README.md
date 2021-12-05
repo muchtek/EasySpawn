@@ -1,4 +1,4 @@
-# EasySpawn![cool](https://user-images.githubusercontent.com/57692478/144762577-ccda5a68-c3ac-4881-9979-df4e7acbc5bb.png)
+![cool](https://user-images.githubusercontent.com/57692478/144762577-ccda5a68-c3ac-4881-9979-df4e7acbc5bb.png)
 
 One simple command. It couldn't be easier!
 
