@@ -19,3 +19,6 @@
 
 # Q: Can I reset the spawn point?
 ### A: Yes! Simply use the built-in `/setworldspawn` command. EasySpawn will teleport the player to whatever spawn you set it to.
+
+# Q: I want to help contribute! Can I?
+### A: Sure! I can always use help making the markdown better, or designing logos (which I'm not very good at 😅). If you have some code suggestions, I would also love to hera them.
