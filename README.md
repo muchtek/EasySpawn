@@ -6,4 +6,5 @@
   <img src="https://img.shields.io/github/downloads/muchtek/EasySpawn/total?label=Github%20Downloads" />
   <img src="https://img.shields.io/spiget/downloads/98133?color=green&label=Spigot%20Downloads" />
   <img src="https://img.shields.io/discord/917152472764645446?color=%237289DA&label=Support%20Server" />
+  <img src="https://img.shields.io/spiget/rating/98133?color=yellow&label=Spigot%20Rating" />
 </p>
