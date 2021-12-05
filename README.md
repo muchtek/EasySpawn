@@ -14,7 +14,7 @@
 # Q: What is EasySpawn?
 ### A: EasySpawn is a simple 1-command minecraft plugin that sends users back to the world spawn when the command is used.
 
-# Q: What is the actual command?
+# Q: What command do I use?
 ### A: The command by default is `/spawn`, but it has many aliases, including `/home`, `/worldspawn`, and `reset`.
 
 # Q: Can I reset the spawn point?
