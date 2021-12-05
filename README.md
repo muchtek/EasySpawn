@@ -23,6 +23,5 @@
 # Q: I want to help contribute! Can I?
 ### A: Sure! I can always use help making the markdown better, or designing logos (which I'm not very good at). If you have some code suggestions, I would also love to hear them.
 
-<p align="center">
-  <img src="https://discordapp.com/api/guilds/917152472764645446/widget.png?style=banner1" />
-</p>
+# Q: Where can i get support?
+### A: I have a discord server [here](https://discord.gg/eX4euPY874) where you can ask for support on the plugin!
