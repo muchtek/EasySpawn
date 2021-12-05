@@ -1,4 +1,4 @@
-# EasySpawn
+<center><h1>EasySpawn</h1></center>
 One simple command. It couldn't be easier!
 
 ![Github Downloads](https://img.shields.io/github/downloads/muchtek/EasySpawn/total?color=orange&label=github%20downloads)
