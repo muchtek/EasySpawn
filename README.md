@@ -24,5 +24,5 @@
 ### A: Sure! I can always use help making the markdown better, or designing logos (which I'm not very good at). If you have some code suggestions, I would also love to hear them.
 
 <p align="center">
-  <iframe src="https://ptb.discord.com/widget?id=917152472764645446&theme=dark" width="750" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <img src="https://discordapp.com/api/guilds/917152472764645446/widget.png?style=banner1" />
 </p>
